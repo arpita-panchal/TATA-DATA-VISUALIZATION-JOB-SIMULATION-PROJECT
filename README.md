@@ -21,7 +21,3 @@ Developed an interactive Power BI dashboard as part of the Tata Data Visualizati
 - Business Intelligence
 - Data Storytelling
 - Stakeholder Reporting
-
-## Author
-**Arpita Panchal**  
-Data Analyst | Power BI | SQL | Excel | Python
